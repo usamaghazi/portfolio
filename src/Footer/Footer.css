@@ -1,0 +1,9 @@
+.Footer{
+    display: flex;
+    height: auto;
+    width: 100vw;
+}
+.Footer1{
+    flex-basis: 100em;
+    text-align: center;
+}

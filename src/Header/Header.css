@@ -1,0 +1,64 @@
+.Headerr{
+    position: fixed;
+    width: 100%;
+    height: 10vh;
+    background-color: #A631CB ;
+    display: flex;
+    padding: 1vw;
+    box-shadow: 10px 1px 10px 9px grey ;
+    top: 0;
+    left: 0; 
+}
+.Nav1{
+    flex-basis:40em;
+    padding-left: 10vw;
+    padding-bottom: 5vw;
+}
+.Nav2{
+    flex-basis: 60em;
+    padding-left: 20em;
+    padding-bottom: 5em;
+}
+.Texter{
+    font-family: Courgette;
+    font-weight: 400;
+    font-size: 30px;
+    color: white;
+}
+.Buttons{
+    display: flex;
+    padding-left: 10vw;
+    
+}
+.Items{
+    list-style: none;
+    flex-basis: 20vw;
+}
+.Itemss{
+    list-style: none;
+    flex-basis: 20vw;
+}
+.Itemsss{
+    list-style: none;
+    flex-basis: 60vw;
+}
+.Batton{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    
+}
+.Textor{
+    font-family: Courgette;
+    font-weight: 300;
+    font-size: 23px;
+    color: white;
+    
+}
+
+.Textor:hover{
+    border-bottom: 1px solid white;
+}

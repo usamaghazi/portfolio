@@ -1,0 +1,116 @@
+.Head {
+    padding: 5vmin;
+}
+.Parent1{
+    /* border: 1px solid black; */
+    padding: 1vmin;
+    width: 90vw;
+    height: auto;
+    display: flex;
+}
+.Child1{
+    background-color:white ;
+    padding: 1vmin;
+    width: 60vw;
+    height: auto;
+}
+.Child2{
+background-color: #DCEEFE ;
+padding: 1vmin;
+padding-left: 2vw;
+width: 40vw;
+height: auto;
+}
+.First-section{
+    display: flex;
+    height: auto;
+    width: auto;
+}
+.Image {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.Text{
+    font-family: Lato;
+    color:#090A09 ;
+    text-align: left;
+    font-size: 2em;
+}
+.Name {
+    padding-top: 12vh;
+    padding-left: 1vw;
+    
+}
+.Line {
+    height: 1vh;
+    background-color:#033D12  ;
+}
+.Second-section{
+    display: flex;
+    height: auto;
+    width: auto;
+}
+.Personal-information1{
+    padding: 0vmin;
+}
+.Data{
+    font-family:Oswald;
+}
+.Info{
+    padding-top: 0vh;
+    
+    width: 40vw;
+}
+.Infoo{
+    padding-top: 0vh;
+    width: 60vw;
+}
+.Infos {
+    font-weight: 400;
+    font-family: Nanum Gothic;
+    font-size: 20px;
+    width: 25vw;    
+}
+.Education{
+    display: flex;
+    width: auto;
+    height: auto;
+}
+.One{
+    flex-basis: 40em;
+    height: auto;
+}
+.Two{
+    flex-basis: 60em;
+    height: auto;
+    padding-left: 1vw;
+}
+.Bacholer{
+    font-weight: 700;
+    font-family: Nanum Gothic;
+    font-size: 20px;
+    width: 20vw;
+    height: auto;
+    
+}
+.University{
+    font-weight: 400;
+    font-family: Nanum Gothic;
+    font-size: 20px;
+    width: 20vw;
+    height: auto;
+    
+}
+.Skills{
+    width: auto;
+    height: auto;
+}
+.Onee{
+  height: auto;  
+}
+.Experience{
+    display: flex;
+    width: auto;
+    height: auto;
+}
